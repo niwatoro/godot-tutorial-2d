@@ -18,3 +18,5 @@ mono_crash.*.json
 
 *.uid
 *.import
+
+.DS_Store
